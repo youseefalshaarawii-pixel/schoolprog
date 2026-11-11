@@ -1,0 +1,6 @@
+{
+  "name": "المدرسة المصرية للغات | المنصة الإخبارية والمجلة الرسمية",
+  "description": "البوابة الإخبارية والمجلة التفاعلية الرسمية للمدرسة المصرية للغات (Egyptian Language School) مع نظام تقليب الألواح وكروت اليوم ولوحة الإدارة.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
